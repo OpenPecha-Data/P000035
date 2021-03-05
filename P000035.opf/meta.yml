@@ -1,13 +1,15 @@
-ebook_metadata:
+id: P000035
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །སྔོན་འགྲོ་བློ་ལྡོག་རྣམ་བཞིའི་ཟིན་ཐུན་མདོར་བསྡུས་བཞུགས་སོ། །
   authors:
   - མཛད་པ་པོ། མཚུངས་མེད་གྲུབ་པའི་དབང་ཕྱུག་ཤཱཀྱ་ཤྲཱི་ཛྙཱ་ནའི་རྒྱལ་སྲས་འཕགས་མཆོག་རྡོ་རྗེ་མཆོག
     །
-  sku: KS-SP-01
   layers:
   - book_title
   - author
   - quotation
+  id: KS-SP-01
 web_metadata:
   title:
     en: Notes on the Four Thoughts That Turn the Mind
